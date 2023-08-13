@@ -1,0 +1,35 @@
+.footer{
+   color: white;
+   min-width: 100vw;
+   display: flex;
+   justify-content: space-between;
+   background-color: blue;
+   padding: 10px;
+
+  
+   
+   
+}
+.redes{
+    
+    width: 140px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+.instagram{
+color: pink;
+}
+.contacto{
+   display: flex;
+   gap: 20px;
+}
+.correo{
+    padding-bottom: 10px;
+}
+.face{
+    color: blue;
+}
+.face:hover{
+    transform: scale(1.40);
+}

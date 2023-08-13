@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+   color: aliceblue;
+    background-color:aquamarine;
+}
+li{
+    color: white;
+}
+.txt{
+    text-decoration: none;
+}

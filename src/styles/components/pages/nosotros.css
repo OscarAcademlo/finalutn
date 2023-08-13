@@ -1,0 +1,30 @@
+
+.img{
+display: flex;  
+flex-direction: row;  
+justify-content: space-around;
+padding-bottom: 150px;
+
+}
+.dani{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+.ale{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+.gaston{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+.img1{
+    width: 400px;
+aspect-ratio: 1;
+}

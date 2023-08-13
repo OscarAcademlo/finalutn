@@ -1,0 +1,13 @@
+.img3{
+    width:  700px;
+    aspect-ratio: 1;
+}
+.cuerpo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color:darkgray;
+}
+h3{
+    text-align: justify;
+}

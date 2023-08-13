@@ -1,0 +1,15 @@
+.topmega{
+    width: 700px;
+    aspect-ratio: 1/1;
+   
+}
+.cuerpo{
+    display: flex;
+     gap: 40px;
+}
+.texto2{
+ 
+    color: beige;
+    text-align: justify;
+    justify-content: space-around;
+}
