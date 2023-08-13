@@ -1,6 +1,6 @@
 
 import Header from './components/layouts/Header'
-import Nav from './components/layouts/nav'
+import Nav from './components/layouts/Nav'
 import Footer from './components/layouts/Footer'
 import Home from './components/pages/Home'
 import Productos from './components/pages/Productos'
